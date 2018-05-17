@@ -1,0 +1,11 @@
+<templateSet group="celyur">
+  <template name="h" value="/** &#10; * @description $description$ &#10; * @param $param$ &#10; * @return $methodreturntype$&#10; * @author huang.yuxiao&#10; * @date $date$ &#10; */" description="方法注释" toReformat="false" toShortenFQNames="true">
+    <variable name="description" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="param" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="methodreturntype" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
