@@ -1,7 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="plugins" />
+      <item value="test" />
+      <item value="build" />
+      <item value="artifact Id" />
+      <item value="String" />
       <item value="Client" />
     </histories>
+  </component>
+  <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="false" />
+      </google-translate>
+    </option>
   </component>
 </application>
