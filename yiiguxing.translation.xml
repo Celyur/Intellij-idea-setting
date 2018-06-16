@@ -1,18 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="interface" />
       <item value="City" />
-      <item value="plugins" />
-      <item value="test" />
-      <item value="build" />
-      <item value="artifact Id" />
-      <item value="String" />
-      <item value="Client" />
+      <item value="Long" />
     </histories>
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
       <google-translate>
+        <option name="primaryLanguage" value="CHINESE" />
         <option name="useTranslateGoogleCom" value="false" />
       </google-translate>
     </option>
