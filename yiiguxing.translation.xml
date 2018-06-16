@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="City" />
       <item value="plugins" />
       <item value="test" />
       <item value="build" />
