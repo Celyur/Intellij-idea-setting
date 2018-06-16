@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="return" />
+      <item value="Long" />
       <item value="interface" />
       <item value="City" />
-      <item value="Long" />
     </histories>
   </component>
   <component name="Settings">
