@@ -1,6 +1,21 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="acquire Shared" />
+      <item value="unparking" />
+      <item value="cancelled" />
+      <item value="indicate" />
+      <item value="Insertion" />
+      <item value="dequeue" />
+      <item value="tail" />
+      <item value="enqueue" />
+      <item value="predecessor" />
+      <item value="signalled" />
+      <item value="track" />
+      <item value="tactic" />
+      <item value="spinlocks" />
+      <item value="lock" />
+      <item value="variant" />
       <item value="return" />
       <item value="Long" />
       <item value="interface" />
