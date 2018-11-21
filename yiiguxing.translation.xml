@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Abstract Queued Synchronizer" />
       <item value="/** * Implements interruptible condition wait. * &lt;ol&gt; * &lt;li&gt; If current thread is interrupted, throw InterruptedException. * &lt;li&gt; Save lock state returned by {@link #getState}. * &lt;li&gt; Invoke {@link #release} with saved state as argument, * throwing IllegalMonitorStateException if it fails. * &lt;li&gt; Block until signalled or interrupted. * &lt;li&gt; Reacquire by invoking specialized version of * {@link #acquire} with saved state as argument. * &lt;li&gt; If interrupted while blocked in step 4, throw InterruptedException. * &lt;/ol&gt; */" />
       <item value="/** * Implements interruptible condition wait. * &lt;ol&gt; * &lt;li&gt; If current thread is interrupted, throw InterruptedException. * &lt;li&gt; Save lock state returned by {@link #getState}. * &lt;li&gt; Invoke {@link #release} with saved state as argument, * throwing IllegalMonitorStateException if it fails. * &lt;li&gt; Block until signalled or interrupted. * &lt;li&gt; Reacquire by invoking specialized version of * {@link #acquire} with saved state as argument. * &lt;li&gt; If interrupted while blocked in step 4, throw InterruptedException. * &lt;/ol&gt;" />
       <item value="* Invokes release with current state value; returns saved state. * Cancels node and throws exception on failure. * @param node the condition node for this wait * @return previous sync state" />
