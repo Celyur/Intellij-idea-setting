@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="/** * Removes and returns the first element from this list. * * @return the first element from this list * @throws NoSuchElementException if this list is empty */" />
       <item value="/** * Transfers a node from a condition queue onto sync queue. * Returns true if successful. * @param node the node * @return true if successfully transferred (else the node was * cancelled before signal) */" />
       <item value="/** * Removes and transfers nodes until hit non-cancelled one or * null. Split out from signal in part to encourage compilers * to inline the case of no waiters. * @param first (non-null) the first node on condition queue */" />
       <item value="Abstract Queued Synchronizer" />
