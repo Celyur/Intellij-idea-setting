@@ -26,6 +26,14 @@
           <option name="url" value="http://gitlab.iwhalecloud.com/OSS_R9_CODE/CODE.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.ztesoft.com" />
+          <option name="userName" value="huang.yuxiao" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.ztesoft.com/OSS_R9_CODE/IOM_CODE/iom-web/" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
