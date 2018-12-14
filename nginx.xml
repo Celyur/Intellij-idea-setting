@@ -11,7 +11,7 @@
       <option name="pidPath" value="/usr/local/var/run/nginx.pid" />
     </NginxServerDescriptor>
     <NginxServerDescriptor>
-      <option name="configPath" value="$USER_HOME$/IdeaProjects/iom-web/nginx_develop/conf/nginx-yx.conf" />
+      <option name="configPath" value="$USER_HOME$/IdeaProjects/iom-web/nginx_develop/conf/nginx_provider_hyx.conf" />
       <option name="errorLogPath" value="/usr/local/var/log/nginx/error.log" />
       <option name="executablePath" value="/usr/local/Cellar/nginx/1.15.7/bin/nginx" />
       <option name="globals" value="" />
