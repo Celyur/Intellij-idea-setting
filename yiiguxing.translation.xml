@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="redis" />
       <item value="get To Number" />
       <item value="Main barrier code, covering the various policies" />
       <item value="/** * The entries in this hash map extend WeakReference, using * its main ref field as the key (which is always a * ThreadLocal object). Note that null keys (i.e. entry.get() * == null) mean that the key is no longer referenced, so the * entry can be expunged from table. Such entries are referred to * as &quot;stale entries&quot; in the code that follows. */" />
