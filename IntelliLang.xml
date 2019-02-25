@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="JAVA" injector-id="java">
+      <display-name>RequestMapping (org.springframework.web.bind.annotation)</display-name>
+      <place disabled="true"><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.springframework.web.bind.annotation.RequestMapping")]]></place>
+    </injection>
+  </component>
+</application>
