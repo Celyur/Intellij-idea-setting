@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="close inspection on the fly" />
       <item value="bamboo" />
       <item value="Using a deprecated class or method is prohibited. Note: For example, decode(String source, String encode) should be used instead of the deprecated method decode(String encodeStr). Once an interface has been deprecated, the interface provider has the obligation to provide a new one. At the same time, client programmers have the obligation to check out what its new implementation is." />
       <item value="suppress bug" />
