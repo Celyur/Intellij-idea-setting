@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="right Curly Check" />
+      <item value="rightCurlyCheck" />
       <item value="Possible null pointer dereference There is a branch of statement that, if executed, guarantees that a null value will be dereferenced, which would generate a NullPointerException when the code is executed. Of course, the problem might be that the branch or statement is infeasible and that the null pointer exception can't ever be executed; deciding that is beyond the ability of FindBugs." />
       <item value="Bad comparison of nonnegative value with negative constant or zero This code compares a value that is guaranteed to be non-negative with a negative constant or zero." />
       <item value="Nullcheck of value previously dereferenced A value is checked here to see whether it is null, but this value can't be null because it was previously dereferenced and if it were null a null pointer exception would have occurred at the earlier dereference. Essentially, this code and the previous dereference disagree as to whether this value is allowed to be null. Either the check is redundant or the previous dereference is erroneous." />
@@ -49,8 +51,6 @@
       <item value="spinlocks" />
       <item value="lock" />
       <item value="variant" />
-      <item value="return" />
-      <item value="Long" />
     </histories>
   </component>
   <component name="Settings">
