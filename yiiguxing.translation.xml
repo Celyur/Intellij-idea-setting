@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="detects when a class or interface does not have a package definition" />
       <item value="right Curly Check" />
       <item value="rightCurlyCheck" />
       <item value="Possible null pointer dereference There is a branch of statement that, if executed, guarantees that a null value will be dereferenced, which would generate a NullPointerException when the code is executed. Of course, the problem might be that the branch or statement is infeasible and that the null pointer exception can't ever be executed; deciding that is beyond the ability of FindBugs." />
@@ -50,7 +51,6 @@
       <item value="tactic" />
       <item value="spinlocks" />
       <item value="lock" />
-      <item value="variant" />
     </histories>
   </component>
   <component name="Settings">
