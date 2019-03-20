@@ -52,6 +52,11 @@
       <item value="enqueue" />
       <item value="predecessor" />
     </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1" />
+      </map>
+    </option>
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
@@ -60,5 +65,6 @@
         <option name="useTranslateGoogleCom" value="false" />
       </google-translate>
     </option>
+    <option name="ignoreRegExp" value="" />
   </component>
 </application>
