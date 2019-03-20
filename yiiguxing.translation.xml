@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The total number of lines for a method should not be more than 80. Note: The total number of lines, including the method signature, closing brace, codes, comments" />
       <item value="prohibited" />
       <item value="use utility class" />
       <item value="utility class" />
@@ -50,7 +51,6 @@
       <item value="tail" />
       <item value="enqueue" />
       <item value="predecessor" />
-      <item value="signalled" />
     </histories>
   </component>
   <component name="Settings">
