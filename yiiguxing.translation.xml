@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="prohibited" />
+      <item value="use utility class" />
+      <item value="utility class" />
       <item value="detects when a class or interface doses not have a package definition" />
       <item value="detects when a class or interface does not have a package definition" />
       <item value="right Curly Check" />
@@ -48,9 +51,6 @@
       <item value="enqueue" />
       <item value="predecessor" />
       <item value="signalled" />
-      <item value="track" />
-      <item value="tactic" />
-      <item value="spinlocks" />
     </histories>
   </component>
   <component name="Settings">
