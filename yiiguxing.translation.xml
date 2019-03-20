@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="detects when a class or interface doses not have a package definition" />
       <item value="detects when a class or interface does not have a package definition" />
       <item value="right Curly Check" />
       <item value="rightCurlyCheck" />
@@ -50,7 +51,6 @@
       <item value="track" />
       <item value="tactic" />
       <item value="spinlocks" />
-      <item value="lock" />
     </histories>
   </component>
   <component name="Settings">
