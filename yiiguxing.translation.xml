@@ -66,5 +66,6 @@
       </google-translate>
     </option>
     <option name="ignoreRegExp" value="" />
+    <option name="keepFormat" value="true" />
   </component>
 </application>
