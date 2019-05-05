@@ -23,4 +23,14 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="ps" value="public String" description="public String" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pi" value="public int" description="public int" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
