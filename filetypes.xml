@@ -4,7 +4,6 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern=".gitignore_global" type="Git file" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="def" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
